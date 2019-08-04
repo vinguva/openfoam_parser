@@ -74,7 +74,7 @@ void		Points::readFile	(	void	)
 
 		// point 값을 points 자료구조에 적재
 		mData.push_back(point);
-		data.pop();
+		//data.pop();
 	}
 }
 
