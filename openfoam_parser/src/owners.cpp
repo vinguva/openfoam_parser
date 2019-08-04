@@ -69,7 +69,7 @@ void		Owners::readFile	(	void	)
 
 		// owner 값을 owners 자료구조에 적재
 		mData.push_back(owner);
-		data.pop();
+		//data.pop();
 	}
 }
 
